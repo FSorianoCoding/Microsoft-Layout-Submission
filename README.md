@@ -1,3 +1,3 @@
 # Microsoft-Layout-Submission
 
-https://github.com/FSorianoCoding/Microsoft-Layout-Submission.git
+https://fsorianocoding.github.io/Microsoft-Layout-Submission/
